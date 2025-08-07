@@ -1,4 +1,4 @@
-public class NumberStepsToZero {
+public class NumberStepsToZero1342 {
     public static void main(String[] args) {
         System.out.println(numberOfSteps(41));
 
