@@ -23,6 +23,7 @@ target/
 Thumbs.db
 
 # Maven / Gradle
+
 *.jar
 *.war
 *.ear
