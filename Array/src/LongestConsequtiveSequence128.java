@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+import java.util.*;
 
 public class LongestConsequtiveSequence128 {
 
