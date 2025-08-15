@@ -27,3 +27,6 @@ Thumbs.db
 *.jar
 *.war
 *.ear
+
+# Ignore Windows folder customizations
+desktop.ini
